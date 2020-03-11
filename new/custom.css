@@ -1,0 +1,7 @@
+ .c-layout-header-fixed .c-layout-header {
+    top: 0;
+    /* wdl
+    position: fixed;  */
+    position: absolute;
+    z-index: 9995;
+    width: 100%; }
