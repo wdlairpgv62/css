@@ -4,10 +4,10 @@ Social icons font: <a href="http://www.socicon.com" target="_blank" alt="Free so
 
 @font-face {
     font-family: 'socicon';
-    src: url('http://www.betsoft365.com/assets/css/font/socicon.eot');
-    src: url('http://www.betsoft365.com/assets/css/font/socicon.eot?#iefix') format('embedded-opentype'),
-         url('http://www.betsoft365.com/assets/css/font/socicon.ttf') format('truetype'),
-         url('http://www.betsoft365.com/assets/css/font/socicon.svg#sociconregular') format('svg');
+    src: url('https://cdn.jsdelivr.net/gh/wdlairpgv62/css/font/socicon.eot');
+    src: url('https://cdn.jsdelivr.net/gh/wdlairpgv62/css/font/socicon.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/wdlairpgv62/css/font/socicon.ttf') format('truetype'),
+         url('https://cdn.jsdelivr.net/gh/wdlairpgv62/css/font/socicon.svg#sociconregular') format('svg');
     font-weight: normal;
     font-style: normal;
     text-transform: initial;
