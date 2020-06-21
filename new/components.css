@@ -3106,7 +3106,7 @@ h1 {
   .c-layout-quick-search-shown .c-layout-header .c-brand {
     display: none; }
   .c-layout-header .c-brand .c-desktop-logo {
-    display: block; }
+    display: block;margin-left:-90px; }
   .c-layout-header .c-brand .c-desktop-logo-inverse {
     display: none; }
   .c-layout-header .c-brand > .c-btn-login {
@@ -3166,7 +3166,7 @@ h1 {
     .c-layout-header .c-brand .c-desktop-logo-inverse {
       display: none; }
     .c-layout-header .c-brand .c-desktop-logo {
-      display: inline-block; }
+      display: inline-block;margin-left:-90px; }
     .c-layout-header .c-brand .c-mobile-logo {
       display: none; }
   .c-layout-header .c-quick-search > .form-control {
